@@ -38,14 +38,14 @@ fornecedores, tornando mais fácil o contato e a gestão das compras.
 Clone o repositório:
 git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/README.md 
 ### Uso
-Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
+Este sistema fornece uma interface gráfica para gerenciar títulos, 
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
 exemplos detalhados de como utilizar cada funcionalidade.
 #### Adicionando um Novo Título
-Para adicionar um novo produto, siga estas etapas:
-1. No menu principal, selecione a opção *[1] Produto.*
-2. No menu de produtos, selecione a opção *[3] Inserir.*
-3. Informe o nome do produto.
+Para adicionar um novo título, siga estas etapas:
+1. No menu principal, selecione a opção *[1] Acervo.*
+2. No menu de títulos, selecione a opção *[3] Inserir.*
+3. Informe o nome do título.
 4. O sistema solicitará as seguintes informações adicionais:
 - Descrição
 - Preço de custo
