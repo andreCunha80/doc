@@ -11,7 +11,7 @@ A interface gráfica foi desenvolvida para ser funcional e de navegação intuit
 ###### Banco de Dados
 Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
 
-### Características
+### Características do Sistema
 
 #### Classificação de Títulos
 Permite a classificação dos títulos em gêneros, facilitando a organização e a 
