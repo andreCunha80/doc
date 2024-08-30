@@ -10,6 +10,9 @@ O projeto consiste na criação e integração de uma interface gráfica com um 
 A interface gráfica foi desenvolvida para ser funcional e de navegação intuitiva. O menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
 ###### Banco de Dados
 Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
+
+### Características
+
 #### Classificação de Títulos
 Permite a classificação dos títulos em gêneros, facilitando a organização e a 
 busca por itens similares ou relacionados.
