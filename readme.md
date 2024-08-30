@@ -4,27 +4,28 @@
 ![banner](https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png)
 Este sistema foi criado para controle de circulação de volumes da biblioteca.
 
-### Tabelas Implementadas
-#### produtos
-Contém informações detalhadas sobre cada produto, como identificação única, 
-nome, descrição, preço de custo, preço de venda e quantidade em estoque.
-#### categorias
-Permite a classificação dos produtos em categorias, facilitando a organização e a 
+### Visão Geral do Projeto
+#### Frontend
+A interface gráfica foi está sendo elaborada para ser funcional e de navegação intuitiva. Na barra
+de cabeçalho o menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar 
+a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
+#### Classificação de Títulos
+Permite a classificação dos títulos em gêneros, facilitando a organização e a 
 busca por itens similares ou relacionados.
-#### movimentacoes_estoque
-Registra todas as entradas e saídas do estoque, proporcionando uma visão clara 
-sobre a movimentação dos produtos e auxiliando na previsão de necessidades 
-futuras de compra.
-#### fornecedores
-Armazena dados sobre os fornecedores, incluindo nome, contato e a lista de produtos 
+#### movimentacoes de Títulos
+Registra todas as entradas e saídas da biblioteca, proporcionando uma visão clara 
+sobre a movimentação de títulos e auxiliando na previsão de necessidade de
+futuras compras, títulos não devolvidos, títulos em atraso ou danificados.
+#### Editoras
+Armazena dados sobre as editoras, incluindo nome, contato e a lista de produtos 
 que fornecem, facilitando o processo de reabastecimento e negociação.
 ### Funcionalidades
-- *Cadastro de Produtos*: Inclui a possibilidade de adicionar novos produtos ao 
-estoque, bem como atualizar informações de produtos existentes.
-- *Organização por Categorias*: Oferece a opção de categorizar produtos, o que 
+- *Cadastro de Títulos*: Inclui a possibilidade de adicionar novos títulos ao 
+acervo, bem como atualizar informações de títulos existentes.
+- *Organização por Gênero*: Oferece a opção de categorizar livros, o que 
 simplifica a gestão e melhora a experiência do usuário.
-- *Monitoramento de Estoque*: Acompanha as movimentações de entrada e 
-saída de produtos, atualizando automaticamente a quantidade disponível em 
+- *Monitoramento de Acervo*: Acompanha as movimentações de entrada e 
+saída de títulos, atualizando automaticamente a quantidade disponível em 
 estoque.
 - *Gerenciamento de Fornecedores*: Centraliza as informações dos 
 fornecedores, tornando mais fácil o contato e a gestão das compras.
