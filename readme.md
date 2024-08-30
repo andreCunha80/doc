@@ -1,8 +1,8 @@
 
 
-## Sistema de controle de circulação de volumes da Biblioteca Senai
+## Sistema de controle de circulação de títulos da Biblioteca Senai
 ![banner](https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png)
-Este sistema foi criado para controle de circulação de volumes da biblioteca.
+Este sistema foi criado para controle de circulação de títulos da biblioteca.
 
 ### Visão Geral do Projeto
 O projeto consiste na criação de uma interface gráfica e de um banco de dados de biblioteca. 
