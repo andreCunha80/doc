@@ -2,7 +2,7 @@
 
 ## Sistema de controle de circulação de volumes da Biblioteca Senai
 ![banner](https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png)
-Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
+Este sistema foi criado para controle de circulação de volumes da biblioteca.
 
 ### Tabelas Implementadas
 #### produtos
