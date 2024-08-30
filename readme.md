@@ -104,3 +104,5 @@ Para qualquer dúvida ou suporte técnico, entre em contato através de:
 30.08.2024
 
 Nesse momento a equipe de desenvolvimento backend está acertando detalhes de configuração no Workbench banco de dados MySql e configuração de ambiente virtual Python para a integração com o framework Django, enquanto o Frontend está definindo a estrutura de layout de interface e funcionalidades para a implementação junto ao banco de dados.
+
+https://www.youtube.com/watch?v=7fEjG4VSXJc&t=89s
