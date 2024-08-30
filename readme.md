@@ -5,10 +5,13 @@
 Este sistema foi criado para controle de circulação de volumes da biblioteca.
 
 ### Visão Geral do Projeto
+O projeto consiste na criação de uma interface gráfica e de um banco de dados de biblioteca. 
 #### Interface
-A interface gráfica foi está sendo elaborada para ser funcional e de navegação intuitiva. Na barra
+A interface gráfica foi desenvolvida para ser funcional e de navegação intuitiva. Na barra
 de cabeçalho o menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar 
 a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
+#### Banco de Dados
+Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar grandes volumes de dados, a atualização em tempo real das informações, a facilidade de consulta e modificação dos dados, a integridade e a consistência dos dados, a segurança das informações e a adaptabilidade às mudanças nas informações.
 #### Classificação de Títulos
 Permite a classificação dos títulos em gêneros, facilitando a organização e a 
 busca por itens similares ou relacionados.
