@@ -5,14 +5,14 @@
 Este sistema foi criado para controle de circulação de volumes da biblioteca.
 
 ### Visão Geral do Projeto
-#### Frontend
+#### Interface
 A interface gráfica foi está sendo elaborada para ser funcional e de navegação intuitiva. Na barra
 de cabeçalho o menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar 
 a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
 #### Classificação de Títulos
 Permite a classificação dos títulos em gêneros, facilitando a organização e a 
 busca por itens similares ou relacionados.
-#### movimentacoes de Títulos
+#### Movimentação de Títulos
 Registra todas as entradas e saídas da biblioteca, proporcionando uma visão clara 
 sobre a movimentação de títulos e auxiliando na previsão de necessidade de
 futuras compras, títulos não devolvidos, títulos em atraso ou danificados.
@@ -31,9 +31,8 @@ estoque.
 fornecedores, tornando mais fácil o contato e a gestão das compras.
 
 ### Pré-requisitos
-- Sistema de gerenciamento de banco de dados SQLite.
-- IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual 
-Studio Code, etc.).
+- Sistema de gerenciamento de banco de dados MySQL.
+- IDE recomendada: Visual Studio Code (ou outra IDE de sua preferência, como PyCharm, etc.).
 ### Configuração
 Clone o repositório:
 git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/README.md 
@@ -41,7 +40,7 @@ git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Emp
 Este sistema fornece uma interface de linha de comando para gerenciar produtos, 
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
 exemplos detalhados de como utilizar cada funcionalidade.
-#### Adicionando um Novo Produto
+#### Adicionando um Novo Título
 Para adicionar um novo produto, siga estas etapas:
 1. No menu principal, selecione a opção *[1] Produto.*
 2. No menu de produtos, selecione a opção *[3] Inserir.*
