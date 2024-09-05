@@ -8,6 +8,12 @@ Este sistema foi criado para controle de circulação de títulos da biblioteca.
 O projeto consiste na criação e integração Frontend/Backend de uma interface gráfica com um banco de dados de biblioteca. 
 #### Interface
 A interface gráfica foi desenvolvida para ser funcional e de navegação intuitiva. O menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
+
+### Html, Css e Javascript
+
+HTML define a estrutura do seu conteúdo, CSS determina o estilo e o layout, e JavaScript torna o conteúdo interativo.
+
+### React
 #### Banco de Dados MySql
 Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
 
