@@ -44,6 +44,7 @@ git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Emp
 Este sistema fornece uma interface gráfica para gerenciar títulos, 
 categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
 exemplos detalhados de como utilizar cada funcionalidade.
+O docente só pode acessar a busca por gêneros de titulos, quando estiver cadastrado e logado.
 #### Adicionando um Novo Título
 Para adicionar um novo título, siga estas etapas:
 1. No menu principal, selecione a opção *[1] Acervo.*
