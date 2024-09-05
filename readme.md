@@ -6,7 +6,6 @@ Este sistema foi criado para controle de circulação de títulos da biblioteca.
 
 ### Visão Geral do Projeto
 O projeto consiste na criação e integração Frontend/Backend de uma interface gráfica com um banco de dados de biblioteca. 
-#### Interface
 A interface gráfica foi desenvolvida para ser funcional e de navegação intuitiva. O menu de navegação possibilita que o usuário encontre rapidamente o link para iniciar a autenticação de usuário, o histórico de movimentação de títulos, turma e acervo da biblioteca.
 
 ### Ferramentas:
