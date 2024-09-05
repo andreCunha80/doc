@@ -11,6 +11,9 @@ A interface gráfica foi desenvolvida para ser funcional e de navegação intuit
 #### Banco de Dados
 Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
 
+### Django
+Para facilitar o processo de criação de soluções web, o Django framework abstrai a maioria dos processos árduos e repetitivos de configuração do ambiente de desenvolvimento, como gerenciamento de Banco de Dados, configuração de roteamento de URLs, configurações de autenticação e autorização, dentre outras.
+
 ### Características do Sistema
 
 #### Classificação de Títulos
