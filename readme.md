@@ -16,7 +16,7 @@ HTML define a estrutura do seu conteúdo, CSS determina o estilo e o layout, e J
 
 ### React
 React. js é um framework JavaScript rápido, seguro e escalável. Ele fornece uma experiência fantástica para o usuário e o desenvolvedor.
-#### Banco de Dados MySql
+#### Banco de Dados MySQL
 Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
 
 ### Django
