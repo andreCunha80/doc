@@ -109,4 +109,8 @@ Para qualquer dúvida ou suporte técnico, entre em contato através de:
 
 Nesse momento a equipe de desenvolvimento backend está acertando detalhes de configuração no Workbench banco de dados MySql e configuração de ambiente virtual Python para a integração com o framework Django, enquanto o Frontend está definindo a estrutura de layout de interface e funcionalidades para a implementação junto ao banco de dados.
 
+05.08.2024
+
+Atualização project Biblioteca: tratado a questão de manipulação de formulário com o django, modificação do formulário com widgets avançado do django, criado um campo de categoria para que os docentes possa selecionar uma determinada categoria de livros somente para o seu usuário logado, criada uma class cadastro livro para herdar de  BasemodelForm do django,  def __init __self() implementado o javascript para gerenciar a interatividade do usuário quando clicar em categoria, livros, empréstimo  e etc..
+
 https://www.youtube.com/watch?v=7fEjG4VSXJc&t=89s
