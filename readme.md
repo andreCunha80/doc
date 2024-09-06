@@ -2,7 +2,7 @@
 
 ## Sistema de gerenciamento de circulação de títulos da Biblioteca Senai Roberto Simonsen
 ![banner](https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png)
-Este sistema foi criado para controle de circulação de títulos da biblioteca.
+Este sistema foi criado para gerenciamento de circulação de títulos da biblioteca.
 
 ### Visão Geral do Projeto
 O projeto consiste na criação e integração Frontend/Backend de uma interface gráfica com um banco de dados de biblioteca. 
