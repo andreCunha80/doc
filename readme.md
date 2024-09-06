@@ -89,6 +89,9 @@ git clone xxx
 ### Uso
 Este sistema fornece uma interface gráfica para gerenciar livros, materiais didáticos, categorias, movimentações de estoque e fornecedores na biblioteca do SENAI. Abaixo, você encontrará exemplos detalhados de como utilizar cada funcionalidade.
 
+#### Navegação
+No cabeçalho há links de direcionamento para login e cadastramento, movimentação acervo, e autenticação de turma e professor.
+
 
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
