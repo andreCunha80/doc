@@ -92,10 +92,15 @@ Este sistema fornece uma interface gráfica para gerenciar livros, materiais did
 #### Navegação
 No cabeçalho há links de direcionamento para login, movimentação, acervo, autenticação de turma e professor.
 ##### Iniciar Sessão
+O usuário faz o login e acessa as seções com os serviços disponíveis.
 ##### Turma
+O registro de atividades de movimentação de títulos fica registrado para consultas de professores.
 ##### Movimentação
+O usuário tem acesso à sua movimentação de títulos.
 ##### Acervo
+O usuário pode consultar a disponiblidade de títulos no acervo.
 ##### Professor
+O professor gerencia a movimentação de títulos e aplicação às turmas correspondentes. 
 
 
 ### Licença
