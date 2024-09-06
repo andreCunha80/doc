@@ -15,7 +15,7 @@ A interface gráfica foi desenvolvida para ser funcional e de navegação intuit
 
 HTML define a estrutura do seu conteúdo, CSS determina o estilo e o layout, e JavaScript torna o conteúdo interativo.
 ### Node.js
-A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos. O runtime do Node.js é single-thread — uma única thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar novas threads, o que torna o código mais simples de manter. 
+A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos. O runtime do Node.js é single-thread - uma única thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar novas threads, o que torna o código mais simples de manter. 
 ### React
 React. js é um framework JavaScript rápido, seguro e escalável. Ele fornece uma experiência fantástica para o usuário e o desenvolvedor.
 #### Banco de Dados MySQL
@@ -112,6 +112,21 @@ Este projeto é licenciado sob a Licença MIT License.
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
 - GitHub Issues
 - LinkedIn: https://www.linkedin.com/
+
+ #### Referências
+
+ https://nodejs.org/pt
+
+ https://docs.python.org/3/library/venv.html
+
+ https://www.djangoproject.com
+
+ https://pt-br.legacy.reactjs.org
+
+ https://www.mysql.com
+
+ 
+ 
 
 
 
