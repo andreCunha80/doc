@@ -29,7 +29,7 @@ Para facilitar o processo de criação de soluções web, o Django framework abs
 
 ### Características do Sistema
 
-A interface gráfica e o banco de dados foram desenvolvidos para gerenciar o controle de livros e materiais didáticos na biblioteca do SENAI. O sistema oferece funcionalidades como cadastro, consulta, exclusão, controle de estoque, organização por prateleiras e outras características essenciais para a administração eficiente dos recursos bibliotecários.
+Esse conjunto de tecnologias permite a criação de sistemas robustos, interativos e escaláveis, tanto no frontend quanto no backend. O uso de Node.js com React oferece uma combinação potente para o desenvolvimento de aplicações web modernas, enquanto o Django e MySQL permitem um backend estável e eficiente com Python.
 
 ### Tabelas Implementadas
 #### 1- Armário
@@ -124,6 +124,8 @@ Para qualquer dúvida ou suporte técnico, entre em contato através de:
  https://pt-br.legacy.reactjs.org
 
  https://www.mysql.com
+
+ https://chatgpt.com
 
  
  
