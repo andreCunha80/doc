@@ -29,98 +29,82 @@ Para facilitar o processo de criação de soluções web, o Django framework abs
 
 ### Características do Sistema
 
-#### Classificação de Títulos
-Permite a classificação dos títulos em gêneros, facilitando a organização e a 
-busca por itens similares ou relacionados.
-#### Movimentação de Títulos
-Registra todas as entradas e saídas da biblioteca, proporcionando uma visão clara 
-sobre a movimentação de títulos e auxiliando na previsão de necessidade de
-futuras compras, títulos não devolvidos, títulos em atraso ou danificados.
-#### Editoras
-Armazena dados sobre as editoras, incluindo nome, contato e a lista de produtos 
-que fornecem, facilitando o processo de reabastecimento e negociação.
-### Funcionalidades
-- *Cadastro de Títulos*: Inclui a possibilidade de adicionar novos títulos ao 
-acervo, bem como atualizar informações de títulos existentes.
-- *Organização por Gênero*: Oferece a opção de categorizar livros, o que 
-simplifica a gestão e melhora a experiência do usuário.
-- *Monitoramento de Acervo*: Acompanha as movimentações de entrada e 
-saída de títulos, atualizando automaticamente a quantidade disponível em 
-estoque.
-- *Gerenciamento de Fornecedores*: Centraliza as informações dos 
-fornecedores, tornando mais fácil o contato e a gestão das compras.
+Contém uma interface gráfica e um banco de dados desenvolvido para gerenciar o controle de livros e materiais didáticos na biblioteca do SENAI. O sistema oferece funcionalidades como cadastro, consulta, exclusão, controle de estoque, organização por prateleiras e outras características essenciais para a administração eficiente dos recursos bibliotecários.
+
+Tabelas Implementadas
+1- armario
+
+Armazenamento de informações sobre os armários da biblioteca.
+2- divisao
+
+Detalhes sobre as divisões dos armários.
+3- estoque
+
+Registro do estoque de materiais na biblioteca.
+4- material didatico
+
+Informações sobre os materiais didáticos disponíveis.
+5- material didatico repografia
+
+Dados específicos sobre materiais didáticos relacionados à reprografia.
+6- material didatico turma
+
+Relação entre o material didático e as turmas.
+7- movimentacao
+
+Registro das movimentações de materiais na biblioteca.
+8- observacao
+
+Observações gerais relacionadas ao banco de dados.
+9- observacao material
+
+Observações específicas sobre os materiais.
+10- observacao repografia
+
+Observações relacionadas à reprografia.
+11- professor
+
+Cadastro de informações sobre os professores.
+12- remessa conserto
+
+Detalhes das remessas de materiais para conserto.
+13- repografia
+
+Informações sobre os serviços de reprografia disponíveis.
+14- solicitacao
+Registro das solicitações realizadas na biblioteca.
 
 ### Pré-requisitos
 - Sistema de gerenciamento de banco de dados MySQL.
-- IDE recomendada: Visual Studio Code (ou outra IDE de sua preferência, como PyCharm, etc.).
+- Python3 instalado.
+- IDE recomendada: Visual Studio Code (ou outra IDE de sua preferência como PyCharm.).
+
+
 ### Configuração
 Clone o repositório:
-git clone https://github.com/gvnff/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/README.md 
-### Uso
-Este sistema fornece uma interface gráfica para gerenciar títulos, 
-categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
-exemplos detalhados de como utilizar cada funcionalidade.
-O docente só pode acessar a busca por gêneros de titulos, quando estiver cadastrado e logado.
-#### Adicionando um Novo Título
-Para adicionar um novo título, siga estas etapas:
-1. No menu principal, selecione a opção *[1] Acervo.*
-2. No menu de títulos, selecione a opção *[3] Inserir.*
-3. Informe o nome do título.
-4. O sistema solicitará as seguintes informações adicionais:
-- Descrição
-- Preço de custo
-- Preço de venda
-- Quantidade inicial em estoque
-- ID do fornecedor
-- ID da categoria
-- Marca
-- Data de validade (formato YYYY-MM-DD)
-- Lote
-5. Após fornecer todas as informações, o produto será adicionado ao sistema.
+git clone xxx
 
-### Categorizando um Produto
-Para associar um produto a uma categoria existente:
-1. No menu principal, selecione a opção *[1] Produto*.
-2. No menu de produtos, selecione a opção *[3] Inserir*.
-3. Informe o nome do produto e os demais detalhes solicitados.
-4. Quando for solicitado o "ID da categoria", informe o ID da categoria desejada.
-Para criar uma nova categoria:
-1. No menu principal, selecione a opção *[2] Categoria*.
-2. No menu de categorias, selecione a opção *[3] Inserir*.
-3. Informe o nome da nova categoria.
-4. A nova categoria estará disponível para associação aos produtos.
-### Registrando Movimentações de Estoque
-Para registrar uma nova entrada ou saída de estoque:
-1. No menu principal, selecione a opção *[4] Movimentação*.
-2. No menu de movimentações, selecione a opção *[3] Inserir*.
-3. Informe o ID do produto para o qual deseja registrar a movimentação.
-4. Informe o ID do usuário responsável pela movimentação.
-5. Informe a data da movimentação no formato YYYY-MM-DD.
-6. Informe a quantidade movimentada.
-7. Informe o tipo de movimentação (entrada ou saída).
-8. A movimentação será registrada, atualizando o estoque correspondente.
-### Gerenciando Fornecedores
-Para inserir um novo fornecedor:
-1. No menu principal, selecione a opção *[3] Fornecedor*.
-2. No menu de fornecedores, selecione a opção *[3] Inserir*.
-3. Informe o nome do fornecedor.
-4. Informe o endereço do fornecedor (ID do endereço).
-5. O novo fornecedor será adicionado ao sistema.
-Para atualizar informações de um fornecedor existente:
-1. No menu principal, selecione a opção *[3] Fornecedor*.
-2. No menu de fornecedores, selecione a opção *[2] Buscar*.
-3. Informe o ID do fornecedor que deseja atualizar.
-4. As informações atuais do fornecedor serão exibidas.
-5. Siga as instruções fornecidas pelo sistema para atualizar os campos 
-desejados.
+
+### Uso
+Este sistema fornece uma interface gráfica para gerenciar livros, materiais didáticos, categorias, movimentações de estoque e fornecedores na biblioteca do SENAI. Abaixo, você encontrará exemplos detalhados de como utilizar cada funcionalidade.
+
+
+### Contato
+Para qualquer dúvida ou suporte técnico, entre em contato através de:
+- GitHub Issues
+- LinkedIn: https://www.linkedin.com/in/
+
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
 ### Autores
-- Seu Nome - Trabalho Inicial - SeuPerfilGitHub
+- Alex, André, Caio, Carol, Cícero, Diego, Gabriel, Geovane, Hugo, Vitor, Wendel e ?- Trabalho Inicial - SeuPerfilGitHub
+- 
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
 - GitHub Issues
 - LinkedIn
+
+
 
 30.08.2024
 
@@ -132,7 +116,18 @@ Atualização project Biblioteca: tratado a questão de manipulação de formul�
 
 06.09.2024
 
-Atualização project Biblioteca: implementada mais medidas de segurança em cadastrar categoria de livros vinculando o usuario logado ao id do livro, para garantir que é mesmo que esta realizando ações e nova funcionalidade de empréstimos de livros adicionada, mais dois formulários criado com django.forms e um criado no braço mesmo em html, funcionalidades de adicionar docente e docentes ja contratados senai
+Atualização project Biblioteca: implementada mais medidas de segurança em cadastrar categoria de livros vinculando o usuario logado ao id do livro, para garantir que é mesmo que esta realizando ações e nova funcionalidade de empréstimos de livros adicionada, mais dois formulários criado com django.forms e um criado no braço mesmo em html, funcionalidades de adicionar docente e docentes ja contratados senai.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Administracao-da-biblioteca-do-SENAI
 ![banner](https://github.com/NathanSilva4244/Administracao-da-biblioteca-do-SENAI/blob/main/biblioteca_banner.png)
