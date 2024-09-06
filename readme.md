@@ -29,7 +29,7 @@ Para facilitar o processo de criação de soluções web, o Django framework abs
 
 ### Características do Sistema
 
-Contém uma interface gráfica e um banco de dados desenvolvido para gerenciar o controle de livros e materiais didáticos na biblioteca do SENAI. O sistema oferece funcionalidades como cadastro, consulta, exclusão, controle de estoque, organização por prateleiras e outras características essenciais para a administração eficiente dos recursos bibliotecários.
+A interface gráfica e o banco de dados foram desenvolvidos para gerenciar o controle de livros e materiais didáticos na biblioteca do SENAI. O sistema oferece funcionalidades como cadastro, consulta, exclusão, controle de estoque, organização por prateleiras e outras características essenciais para a administração eficiente dos recursos bibliotecários.
 
 ### Tabelas Implementadas
 #### 1- Armário
