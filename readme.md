@@ -90,11 +90,6 @@ git clone xxx
 Este sistema fornece uma interface gráfica para gerenciar livros, materiais didáticos, categorias, movimentações de estoque e fornecedores na biblioteca do SENAI. Abaixo, você encontrará exemplos detalhados de como utilizar cada funcionalidade.
 
 
-### Contato
-Para qualquer dúvida ou suporte técnico, entre em contato através de:
-- GitHub Issues
-- LinkedIn: https://www.linkedin.com/in/
-
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
 ### Autores
@@ -103,7 +98,7 @@ Este projeto é licenciado sob a Licença MIT License.
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
 - GitHub Issues
-- LinkedIn
+- LinkedIn: https://www.linkedin.com/
 
 
 
