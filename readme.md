@@ -14,7 +14,7 @@ A interface gráfica foi desenvolvida para ser funcional e de navegação intuit
 
 HTML define a estrutura do seu conteúdo, CSS determina o estilo e o layout, e JavaScript torna o conteúdo interativo.
 ### Node.js
-A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos.[8] O runtime do Node.js é single-thread — uma única thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar novas threads, o que torna o código mais simples de manter.[9] Chamadas que seriam bloqueantes, como entrada/saída, são realizadas de forma assíncrona usando a libuv.
+A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos. O runtime do Node.js é single-thread — uma única thread (chamada de Event Loop) é responsável por executar o código Javascript, sem a necessidade de criar novas threads, o que torna o código mais simples de manter. Chamadas que seriam bloqueantes, como entrada/saída, são realizadas de forma assíncrona usando a libuv.
 
 ### React
 React. js é um framework JavaScript rápido, seguro e escalável. Ele fornece uma experiência fantástica para o usuário e o desenvolvedor.
