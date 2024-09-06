@@ -32,46 +32,46 @@ Para facilitar o processo de criação de soluções web, o Django framework abs
 Contém uma interface gráfica e um banco de dados desenvolvido para gerenciar o controle de livros e materiais didáticos na biblioteca do SENAI. O sistema oferece funcionalidades como cadastro, consulta, exclusão, controle de estoque, organização por prateleiras e outras características essenciais para a administração eficiente dos recursos bibliotecários.
 
 ### Tabelas Implementadas
-#### 1- armario
+#### 1- Armário
 Armazenamento de informações sobre os armários da biblioteca.
 
-#### 2- divisao
+#### 2- Divisão
 Detalhes sobre as divisões dos armários.
 
-#### 3- estoque
+#### 3- Estoque
 Registro do estoque de materiais na biblioteca.
 
-#### 4- material didatico
+#### 4- Material didático
 Informações sobre os materiais didáticos disponíveis.
 
-#### 5- material didatico repografia
+#### 5- Material didático repografia
 Dados específicos sobre materiais didáticos relacionados à reprografia.
 
-#### 6- material didatico turma
+#### 6- Material didático turma
 Relação entre o material didático e as turmas.
 
-#### 7- movimentacao
+#### 7- Movimentação
 Registro das movimentações de materiais na biblioteca.
 
-#### 8- observacao 
+#### 8- Observação 
 Observações gerais relacionadas ao banco de dados.
 
-#### 9- observacao material 
+#### 9- Observação material 
 Observações específicas sobre os materiais.
 
-#### 10- observacao repografia 
+#### 10- Observação repografia 
 Observações relacionadas à reprografia.
 
-#### 11- professor 
+#### 11- Professor 
 Cadastro de informações sobre os professores.
 
-#### 12- remessa conserto 
+#### 12- Remessa conserto 
 Detalhes das remessas de materiais para conserto.
 
-#### 13- repografia
+#### 13- Repografia
 Informações sobre os serviços de reprografia disponíveis.
 
-#### 14- solicitacao
+#### 14- Solicitação
 Registro das solicitações realizadas na biblioteca.
 
 
@@ -107,7 +107,7 @@ Para qualquer dúvida ou suporte técnico, entre em contato através de:
 
 
 
-30.08.2024
+### 30.08.2024
 
 Nesse momento a equipe de desenvolvimento backend está acertando detalhes de configuração no Workbench banco de dados MySql e configuração de ambiente virtual Python para a integração com o framework Django, enquanto o Frontend está definindo a estrutura de layout de interface e funcionalidades para a implementação junto ao banco de dados.
 
