@@ -91,11 +91,11 @@ Este sistema fornece uma interface gráfica para gerenciar livros, materiais did
 
 #### Navegação
 No cabeçalho há links de direcionamento para login, movimentação, acervo, autenticação de turma e professor.
-#### Iniciar Sessão
-#### Turma
-#### Movimentação
-#### Acervo
-#### Professor
+##### Iniciar Sessão
+##### Turma
+##### Movimentação
+##### Acervo
+##### Professor
 
 
 ### Licença
