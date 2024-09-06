@@ -130,6 +130,10 @@ Nesse momento a equipe de desenvolvimento backend está acertando detalhes de co
 
 Atualização project Biblioteca: tratado a questão de manipulação de formulário com o django, modificação do formulário com widgets avançado do django, criado um campo de categoria para que os docentes possa selecionar uma determinada categoria de livros somente para o seu usuário logado, criada uma class cadastro livro para herdar de  BasemodelForm do django,  def __init __self() implementado o javascript para gerenciar a interatividade do usuário quando clicar em categoria, livros, empréstimo  e etc..
 
+06.09.2024
+
+Atualização project Biblioteca: implementada mais medidas de segurança em cadastrar categoria de livros vinculando o usuario logado ao id do livro, para garantir que é mesmo que esta realizando ações e nova funcionalidade de empréstimos de livros adicionada, mais dois formulários criado com django.forms e um criado no braço mesmo em html, funcionalidades de adicionar docente e docentes ja contratados senai
+
 ## Administracao-da-biblioteca-do-SENAI
 ![banner](https://github.com/NathanSilva4244/Administracao-da-biblioteca-do-SENAI/blob/main/biblioteca_banner.png)
 
