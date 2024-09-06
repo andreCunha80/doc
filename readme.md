@@ -1,6 +1,6 @@
 
 
-## Sistema de controle de circulação de títulos da Biblioteca Senai Roberto Simonsen
+## Sistema de gerenciamento de circulação de títulos da Biblioteca Senai Roberto Simonsen
 ![banner](https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png)
 Este sistema foi criado para controle de circulação de títulos da biblioteca.
 
