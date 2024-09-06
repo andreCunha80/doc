@@ -19,7 +19,7 @@ A principal característica do Node.js é sua arquitetura assíncrona e orientad
 ### React
 React. js é um framework JavaScript rápido, seguro e escalável. Ele fornece uma experiência fantástica para o usuário e o desenvolvedor.
 #### Banco de Dados MySQL
-Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar volumes moderados de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
+Entre as principais características do Banco de Dados, destacam-se a capacidade de armazenar grandes volumes de dados, pela altíssima confiabilidade e facilidade no armazenamento e na recuperação de dados.
 
 ### Ambiente Virtual Python (venv)
 O Ambiente Virtual Python é uma instância independente do Python que permite isolar as bibliotecas e dependências de um projeto específico. Cada projeto tem seu próprio ambiente isolado, permitindo a instalação e gerenciamento de versões específicas de bibliotecas e suas dependências. Isso garante que cada projeto tenha um ambiente consistente e estável, sem interferir em outros projetos ou no ambiente global do Python. O principal objetivo dos ambientes virtuais é criar um ambiente isolado para os projetos Python.
