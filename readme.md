@@ -92,6 +92,12 @@ Este sistema fornece uma interface gráfica para gerenciar livros, materiais did
 #### Navegação
 No cabeçalho há links de direcionamento para login e cadastramento, movimentação acervo, e autenticação de turma e professor.
 
+#### Iniciar Sessão
+#### Turma
+#### Movimentação
+#### Acervo
+#### Professor
+
 
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
