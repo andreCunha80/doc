@@ -93,7 +93,7 @@ Este sistema fornece uma interface gráfica para gerenciar livros, materiais did
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
 ### Autores
-- Alex, André, Caio, Carol, Cícero, Diego, Gabriel, Geovane, Hugo, Vitor, Wendel e ? - Trabalho Inicial - SeuPerfilGitHub
+- Alex, André, Caio, Carol, Cícero, Daniel, Diego, Gabriel, Geovane, Hugo, Vitor e Wendel. - Trabalho Inicial - SeuPerfilGitHub
  
 ### Contato
 Para qualquer dúvida ou suporte técnico, entre em contato através de:
